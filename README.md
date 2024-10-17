@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Welcome+to+Inu's+Github!" alt="Welcome to Inu's Github" />
 </h1>
 
-<h3 align="center"> $\large\color{#48D1CC}\cal{tech\ stack}$ </h3>
+<h3 align="center"> $\large\color{#04d9ff}\cal{tech\ stack}$ </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
