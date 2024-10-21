@@ -1,6 +1,6 @@
 <!-- 상단 네온 텍스트 -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Welcome+to+Inu's+Github!" alt="Welcome to Inu's Github" />
+  <img src="https://github.com/rasangchul/rasangchul/raw/main/unscreenWelcome.gif" alt="Welcome GIF" />
 </h1>
 
 <h3 align="center"> $\large\color{#04d9ff}\cal{tech\ stack}$ </h3>
